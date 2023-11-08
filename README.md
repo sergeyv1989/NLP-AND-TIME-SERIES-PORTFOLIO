@@ -1,5 +1,5 @@
-# PORTFOLIO-ALGO-TRADING
-Projects portfolio in algorithmic trading.
+# PORTFOLIO-SEQUENCE-MODELS
+Projects portfolio in NLP / sequence models.
 
 ## (1) Algorithmic trading pipeline with LSTMs
 - The goal of this project is to present a pipeline for predicting stock prices with LSTM-based deep learning models.
