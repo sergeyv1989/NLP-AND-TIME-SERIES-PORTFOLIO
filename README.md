@@ -1,4 +1,4 @@
-# NLP-AND-TIME-SERIES-PORTFOLIO
+# NLP and time series portfolio
 Projects portfolio in natural language processing and time series (sequence models).
 
 ## (1) Algorithmic trading pipeline with LSTMs
